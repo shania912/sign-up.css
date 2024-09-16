@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(../../Downloads/368876580_861463428874330_3868294086445185703_n.jpg);
+    text-align: center;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
